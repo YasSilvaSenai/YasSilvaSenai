@@ -17,26 +17,24 @@ Sou uma jovem Desenvolvedora de sistemas apaixonada por tecnologia e design web 
 
 
 🛠 **Habilidades & Ferramentas**
-- **🔎 Análise e Visualização de Dados**  
+- **Análise e Visualização de Dados**  
  SQL (MySQL, PostgreSQL) • Power BI • Excel
 
-- **🤖 Machine Learning**  
-  Classificação • Regressão • Clustering • Modelos supervisionados e não supervisionados
+- **Machine Learning**  
+  Classificação • Regressão •  Modelos supervisionados e não supervisionados
 
-- **🌐 Desenvolvimento Web**  
-  JavaScript • TypeScript • React.js • Node.js • Next.js • HTML • CSS • TailwindCSS
+- **Desenvolvimento Web**  
+  JavaScript • React.js • Node.js • Next.js • HTML • CSS 
 
-- **⚙️ Backend & Automação**  
-  Python Scripts • Bots • API REST • Express.js • Postman • Automation Anywhere
+- **Backend & Automação**  
+  Python Scripts • API REST • Express.js
 
-- **📁 Banco de Dados & Cloud**  
-  MySQL • PostgreSQL • Firebase • Supabase • Integração backend & serviços cloud
+- **Banco de Dados & Cloud**  
+  MySQL • PostgreSQL Integração backend & serviços cloud
 
 - **🎨 UI/UX & Design Web**  
   Interfaces modernas, responsivas e sofisticadas, com foco em estética e experiência
 
- **Em andamento**
-- 📊 Machine Learning, IA e Big Data
 
-🌐 **Onde me encontrar**
+**Onde me encontrar**
 
